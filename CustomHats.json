@@ -1,6 +1,15 @@
 {
     "hats": [
         {
+            "name": "Selfie",
+            "author": "R1",
+            "package": "01haomingHat",
+            "condition": "None",
+            "resource": "selfie_adaptive.png",
+            "reshasha": "17343826cc3889870944b52864f513a6",
+            "adaptive": true
+        },
+        {
             "name": "Soap Bubble",
             "author": "R1",
             "package": "01haomingHat",
