@@ -1,6 +1,26 @@
 {
     "hats": [
         {
+            "name": "Enoki",
+            "author": "enoki",
+            "package": "01haomingHat",
+            "condition": "None",
+            "resource": "enoki.png",
+            "reshasha": "db92f6b4a777e5dc62e8c52a65f5e91c",
+            "climbresource": "enoki_climb.png",
+            "reshashc": "ce1b148a5d4a56ac763dd85fe4fccc46"
+        },
+        {
+            "name": "Omochi",
+            "author": "enoki",
+            "package": "01haomingHat",
+            "condition": "None",
+            "resource": "omochi.png",
+            "reshasha": "4cddd2a0446ee3ea53abf7c2a07c53d2",
+            "climbresource": "omochi_climb.png",
+            "reshashc": "5fc300d69e049075397c51a7d4e16650"
+        },
+        {
             "name": "Selfie",
             "author": "R1",
             "package": "01haomingHat",
