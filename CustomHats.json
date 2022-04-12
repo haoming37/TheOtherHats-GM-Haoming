@@ -39,6 +39,17 @@
             "climbresource": "SoapBubble_adaptive_climb.png",
             "reshashc": "1bcc9ee8b01ee2d6d1fc70405c9402dc",
             "adaptive": true
+        },
+        {
+            "name": "Takenoko",
+            "author": "enoki",
+            "package": "01haomingHat",
+            "condition": "None",
+            "resource": "takenoko_adaptive.png",
+            "reshasha": "17c81b4dba500cadfeaae038ff00cb93",
+            "climbresource": "takenoko_climb_adaptive.png",
+            "reshashc": "57343bfdf7dc8732f566adddb311a33b",
+            "adaptive": true
         }
     ]
 }
