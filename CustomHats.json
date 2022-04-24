@@ -11,6 +11,20 @@
             "reshashc": "ce1b148a5d4a56ac763dd85fe4fccc46"
         },
         {
+            "name": "Flashlight",
+            "author": "R1",
+            "package": "01haomingHat",
+            "condition": "None",
+            "resource": "flashlight_bounce_adaptive.png",
+            "reshasha": "bbc9e847fe63dd00381c94427e061e37",
+            "climbresource": "flashlight_climb_adaptive.png",
+            "reshashc": "52a1e9c18a1ccc55c4fb921cf05325b6",
+            "flipresource": "flashlight_bounce_flip_adaptive.png",
+            "reshashf": "ffc3d5149a8e598af347b713e643490e",
+            "bounce": true,
+            "adaptive": true
+        },
+        {
             "name": "Omochi",
             "author": "enoki",
             "package": "01haomingHat",
