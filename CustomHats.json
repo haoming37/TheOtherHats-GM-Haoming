@@ -1,6 +1,19 @@
 {
     "hats": [
         {
+            "name": "Box",
+            "author": "enoki",
+            "package": "01haomingHat",
+            "condition": "None",
+            "resource": "BOX_adaptive.png",
+            "reshasha": "d823552f989fc6dd195d1e57b03969f3",
+            "backresource": "BOX_back_adaptive.png",
+            "reshashb": "e2eb0ce9e6c79357002a701eeb62cb3c",
+            "climbresource": "BOX_climb_adaptive.png",
+            "reshashc": "f18b14572d827065540a8571cd965417",
+            "adaptive": true
+        },
+        {
             "name": "Enoki",
             "author": "enoki",
             "package": "01haomingHat",
@@ -11,17 +24,37 @@
             "reshashc": "ce1b148a5d4a56ac763dd85fe4fccc46"
         },
         {
+            "name": "Enoki Adaptive",
+            "author": "enoki",
+            "package": "01haomingHat",
+            "condition": "None",
+            "resource": "enoki2_adaptive.png",
+            "reshasha": "cfed0c3833aac2c15654c01371b30b03",
+            "climbresource": "enoki2_climb_adaptive.png",
+            "reshashc": "076e6c4ba3067f4f936a5039782d5fe0",
+            "adaptive": true
+        },
+        {
             "name": "Flashlight",
             "author": "R1",
             "package": "01haomingHat",
             "condition": "None",
             "resource": "flashlight_bounce_adaptive.png",
-            "reshasha": "bbc9e847fe63dd00381c94427e061e37",
+            "reshasha": "fd5473a667713c739d5ec3017db44935",
             "climbresource": "flashlight_climb_adaptive.png",
             "reshashc": "52a1e9c18a1ccc55c4fb921cf05325b6",
             "flipresource": "flashlight_bounce_flip_adaptive.png",
             "reshashf": "ffc3d5149a8e598af347b713e643490e",
             "bounce": true,
+            "adaptive": true
+        },
+        {
+            "name": "Mic",
+            "author": "enoki",
+            "package": "01haomingHat",
+            "condition": "None",
+            "resource": "mic_adaptive.png",
+            "reshasha": "a3fc5c534ef325792c75a8c98f5e1bf6",
             "adaptive": true
         },
         {
