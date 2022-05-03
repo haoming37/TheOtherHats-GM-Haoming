@@ -18,16 +18,6 @@
             "author": "enoki",
             "package": "01haomingHat",
             "condition": "None",
-            "resource": "enoki.png",
-            "reshasha": "db92f6b4a777e5dc62e8c52a65f5e91c",
-            "climbresource": "enoki_climb.png",
-            "reshashc": "ce1b148a5d4a56ac763dd85fe4fccc46"
-        },
-        {
-            "name": "Enoki Adaptive",
-            "author": "enoki",
-            "package": "01haomingHat",
-            "condition": "None",
             "resource": "enoki2_adaptive.png",
             "reshasha": "cfed0c3833aac2c15654c01371b30b03",
             "climbresource": "enoki2_climb_adaptive.png",
@@ -47,6 +37,16 @@
             "reshashf": "ffc3d5149a8e598af347b713e643490e",
             "bounce": true,
             "adaptive": true
+        },
+        {
+            "name": "Hedgehog",
+            "author": "\u9e7f\u5c4b\u3064\u304b\u3055",
+            "package": "01haomingHat",
+            "condition": "None",
+            "resource": "harinezumi.png",
+            "reshasha": "f40fb5875f15b8bad6d45853410b7fc0",
+            "climbresource": "harinezumi_climb.png",
+            "reshashc": "ca7e9e308943a1e3e26c334f90272866"
         },
         {
             "name": "Mic",
