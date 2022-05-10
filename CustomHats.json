@@ -49,6 +49,26 @@
             "reshashc": "ca7e9e308943a1e3e26c334f90272866"
         },
         {
+            "name": "Hime",
+            "author": "9on",
+            "package": "01haomingHat",
+            "condition": "None",
+            "resource": "hime.png",
+            "reshasha": "3250e9158e5a41b38c897106341729b1",
+            "climbresource": "hime_climb.png",
+            "reshashc": "e76e1037f45f33da8c0ce741d8d8c57d"
+        },
+        {
+            "name": "Matryoshka",
+            "author": "9on",
+            "package": "01haomingHat",
+            "condition": "None",
+            "resource": "matryoshka.png",
+            "reshasha": "dc0cc713d1371d3b7b7aeecda066dafc",
+            "climbresource": "matryoshka_climb.png",
+            "reshashc": "0ed6ea3d45f921a7cfcac0fa0f83412d"
+        },
+        {
             "name": "Mic",
             "author": "enoki",
             "package": "01haomingHat",
@@ -66,6 +86,16 @@
             "reshasha": "537dba3421fa89c3fb648f158fb86efb",
             "climbresource": "omochi_climb.png",
             "reshashc": "5fc300d69e049075397c51a7d4e16650"
+        },
+        {
+            "name": "Otono",
+            "author": "9on",
+            "package": "01haomingHat",
+            "condition": "None",
+            "resource": "otono.png",
+            "reshasha": "eefb6a2a68deb228ba311b235a35b573",
+            "climbresource": "otono_climb.png",
+            "reshashc": "c7c5665ae139a85a5e596ab2835d72f1"
         },
         {
             "name": "Selfie",
