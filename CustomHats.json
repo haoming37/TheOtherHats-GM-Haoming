@@ -138,6 +138,17 @@
             "climbresource": "takenoko_climb_adaptive.png",
             "reshashc": "57343bfdf7dc8732f566adddb311a33b",
             "adaptive": true
+        },
+        {
+            "name": "Teddy Bear",
+            "author": "R1",
+            "package": "01haomingHat",
+            "condition": "None",
+            "resource": "teddy bear_adaptive.png",
+            "reshasha": "3286bf4621ec37b91d907407f75a70e3",
+            "climbresource": "teddy bear_climb_adaptive.png",
+            "reshashc": "51a396bac8a7502e5e922555a7b109bf",
+            "adaptive": true
         }
     ]
 }
