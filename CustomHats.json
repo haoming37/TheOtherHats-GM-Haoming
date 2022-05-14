@@ -14,6 +14,17 @@
             "adaptive": true
         },
         {
+            "name": "Chu-ni",
+            "author": "enoki",
+            "package": "01haomingHat",
+            "condition": "None",
+            "resource": "chu-ni_adaptive.png",
+            "reshasha": "117ff4a6ff90f4ca6f713eee97f92aee",
+            "climbresource": "chu-ni_climb_adaptive.png",
+            "reshashc": "df40f18c252c6b5b0a6ad46224152c1f",
+            "adaptive": true
+        },
+        {
             "name": "Enoki",
             "author": "enoki",
             "package": "01haomingHat",
