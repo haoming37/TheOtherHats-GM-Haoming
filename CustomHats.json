@@ -70,6 +70,20 @@
             "reshashc": "e76e1037f45f33da8c0ce741d8d8c57d"
         },
         {
+            "name": "Kendama",
+            "author": "enoki",
+            "package": "01haomingHat",
+            "condition": "None",
+            "resource": "kendama_bounce_adaptive.png",
+            "reshasha": "d772c2572dd1ca52e299f520f62d85c6",
+            "climbresource": "kendama_climb_adaptive.png",
+            "reshashc": "e192035f66ba24f67141bf3a8132a524",
+            "flipresource": "kendama_flip_bounce_adaptive.png",
+            "reshashf": "cfbaa8282ce82ddbb5ebd0bd56b39aa7",
+            "bounce": true,
+            "adaptive": true
+        },
+        {
             "name": "Matryoshka",
             "author": "9on",
             "package": "01haomingHat",
