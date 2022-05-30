@@ -203,6 +203,17 @@
             "reshashc": "e6d79bc332d9a22b0ad66ca3d8641723"
         },
         {
+            "name": "Panda",
+            "author": "9on",
+            "package": "01haomingHat",
+            "condition": "None",
+            "resource": "Panda_adaptive.png",
+            "reshasha": "52798e51802c9b1f9061f0ba154caec8",
+            "climbresource": "Panda_adaptive_climb.png",
+            "reshashc": "c739c7b0b8bc423582fcef869a60e975",
+            "adaptive": true
+        },
+        {
             "name": "Russia",
             "author": "9on",
             "package": "nationalFlagHats",
