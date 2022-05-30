@@ -1,6 +1,16 @@
 {
     "hats": [
         {
+            "name": "America",
+            "author": "9on",
+            "package": "nationalFlagHat",
+            "condition": "None",
+            "resource": "America.png",
+            "reshasha": "184e2bdcff983c99b4294835233b234f",
+            "climbresource": "America_climb.png",
+            "reshashc": "15ab816d141db43dcab4bfb3eeb18f00"
+        },
+        {
             "name": "Box",
             "author": "enoki",
             "package": "01haomingHat",
@@ -23,6 +33,16 @@
             "climbresource": "chu-ni_climb_adaptive.png",
             "reshashc": "df40f18c252c6b5b0a6ad46224152c1f",
             "adaptive": true
+        },
+        {
+            "name": "England",
+            "author": "9on",
+            "package": "nationalFlagHat",
+            "condition": "None",
+            "resource": "England.png",
+            "reshasha": "97639aaae6292eeb851d8fe82ce87db6",
+            "climbresource": "England_climb.png",
+            "reshashc": "59b539a4b0ebf1d7914efc077ccee1f5"
         },
         {
             "name": "Enoki",
@@ -50,6 +70,26 @@
             "adaptive": true
         },
         {
+            "name": "Germany",
+            "author": "9on",
+            "package": "nationalFlagHat",
+            "condition": "None",
+            "resource": "Germany.png",
+            "reshasha": "92c7c732a4b51fa4ff2d9be7f6bb1ada",
+            "climbresource": "Germany_climb.png",
+            "reshashc": "d9dff92870b7f06d8a11d733bc841528"
+        },
+        {
+            "name": "Greece",
+            "author": "9on",
+            "package": "nationalFlagHat",
+            "condition": "None",
+            "resource": "Greece.png",
+            "reshasha": "99c89aa1221758bb8512b1a7ec4c50cf",
+            "climbresource": "Greece_climb.png",
+            "reshashc": "038a04c0e5a83a2098312f9f5590ab51"
+        },
+        {
             "name": "Hedgehog",
             "author": "\u9e7f\u5c4b\u3064\u304b\u3055",
             "package": "01haomingHat",
@@ -70,6 +110,36 @@
             "reshashc": "e76e1037f45f33da8c0ce741d8d8c57d"
         },
         {
+            "name": "Italy",
+            "author": "9on",
+            "package": "nationalFlagHat",
+            "condition": "None",
+            "resource": "Italy.png",
+            "reshasha": "50697ada8f24895e4401a182d514c09d",
+            "climbresource": "Italy_climb.png",
+            "reshashc": "2973556d8226b12505359b4464af2bca"
+        },
+        {
+            "name": "Jamaica",
+            "author": "9on",
+            "package": "nationalFlagHat",
+            "condition": "None",
+            "resource": "Jamaica.png",
+            "reshasha": "35b0f2993f94afa8c3bfa924c084ff13",
+            "climbresource": "Jamaica_climb.png",
+            "reshashc": "baff7c45221a60c018d9b19f91f27800"
+        },
+        {
+            "name": "Japan",
+            "author": "9on",
+            "package": "nationalFlagHat",
+            "condition": "None",
+            "resource": "Japan.png",
+            "reshasha": "d69d32f6dca706921fdece9c6a3a6ed8",
+            "climbresource": "Japan_climb.png",
+            "reshashc": "784f40921516db2c8f0d46bda6cf309c"
+        },
+        {
             "name": "Kendama",
             "author": "enoki",
             "package": "01haomingHat",
@@ -82,16 +152,6 @@
             "reshashf": "cfbaa8282ce82ddbb5ebd0bd56b39aa7",
             "bounce": true,
             "adaptive": true
-        },
-        {
-            "name": "Matryoshka",
-            "author": "9on",
-            "package": "01haomingHat",
-            "condition": "None",
-            "resource": "matryoshka.png",
-            "reshasha": "dc0cc713d1371d3b7b7aeecda066dafc",
-            "climbresource": "matryoshka_climb.png",
-            "reshashc": "0ed6ea3d45f921a7cfcac0fa0f83412d"
         },
         {
             "name": "Mic",
@@ -123,6 +183,36 @@
             "reshashc": "c7c5665ae139a85a5e596ab2835d72f1"
         },
         {
+            "name": "Pakistan",
+            "author": "9on",
+            "package": "nationalFlagHat",
+            "condition": "None",
+            "resource": "Pakistan.png",
+            "reshasha": "1a4a49830a51fe086362810f9787523c",
+            "climbresource": "Pakistan_climb.png",
+            "reshashc": "f17e08b63e5752b38e5089730e668752"
+        },
+        {
+            "name": "Panama",
+            "author": "9on",
+            "package": "nationalFlagHat",
+            "condition": "None",
+            "resource": "Panama.png",
+            "reshasha": "ab6aff98922597d0afc9ea5cb74681be",
+            "climbresource": "Panama_climb.png",
+            "reshashc": "e6d79bc332d9a22b0ad66ca3d8641723"
+        },
+        {
+            "name": "Russia",
+            "author": "9on",
+            "package": "nationalFlagHat",
+            "condition": "None",
+            "resource": "Russia.png",
+            "reshasha": "de28490c306bb91cbf1e72a07a6b024c",
+            "climbresource": "Russia_climb.png",
+            "reshashc": "e43691cb50cc88a08f89f2aebc9ba150"
+        },
+        {
             "name": "Selfie",
             "author": "R1",
             "package": "01haomingHat",
@@ -130,6 +220,16 @@
             "resource": "selfie_adaptive.png",
             "reshasha": "17343826cc3889870944b52864f513a6",
             "adaptive": true
+        },
+        {
+            "name": "Seychelles",
+            "author": "9on",
+            "package": "nationalFlagHat",
+            "condition": "None",
+            "resource": "Seychelles.png",
+            "reshasha": "6781b01714e8825c0696f347b30fac3f",
+            "climbresource": "Seychelles_climb.png",
+            "reshashc": "5c8e2f7c608742a05d79dc1572bb46a4"
         },
         {
             "name": "Soap Bubble",
@@ -141,6 +241,26 @@
             "climbresource": "SoapBubble_adaptive_climb.png",
             "reshashc": "1bcc9ee8b01ee2d6d1fc70405c9402dc",
             "adaptive": true
+        },
+        {
+            "name": "Spain",
+            "author": "9on",
+            "package": "nationalFlagHat",
+            "condition": "None",
+            "resource": "Spain.png",
+            "reshasha": "3d07505ac1e0905edb0c96057762c763",
+            "climbresource": "Spain_climb.png",
+            "reshashc": "6d4f60f5cfa29023b2102e977f2cf423"
+        },
+        {
+            "name": "Sri Lanka",
+            "author": "9on",
+            "package": "nationalFlagHat",
+            "condition": "None",
+            "resource": "SriLanka.png",
+            "reshasha": "51aafc0712d6dfcb424700cf8cf83deb",
+            "climbresource": "SriLanka_climb.png",
+            "reshashc": "d6b7b8c8eaa80510fb2502f512bc6453"
         },
         {
             "name": "Takenoko",
@@ -163,6 +283,26 @@
             "climbresource": "teddy bear_climb_adaptive.png",
             "reshashc": "1e06bd5aba57703f34248411303e53b2",
             "adaptive": true
+        },
+        {
+            "name": "Turkey",
+            "author": "9on",
+            "package": "nationalFlagHat",
+            "condition": "None",
+            "resource": "Turkey.png",
+            "reshasha": "d05190786944d36927340e392db0544b",
+            "climbresource": "Turkey_climb.png",
+            "reshashc": "dc9b0e6f7e84948f43af25880051c5be"
+        },
+        {
+            "name": "Ukraine",
+            "author": "9on",
+            "package": "nationalFlagHat",
+            "condition": "None",
+            "resource": "Ukraine.png",
+            "reshasha": "1c0ba4fff85d9ad561f991455019ac2e",
+            "climbresource": "Ukraine_climb.png",
+            "reshashc": "df7615c5f058d3d7cc0da939c5d74ac8"
         }
     ]
 }
