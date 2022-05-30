@@ -3,7 +3,7 @@
         {
             "name": "America",
             "author": "9on",
-            "package": "nationalFlagHat",
+            "package": "nationalFlagHats",
             "condition": "None",
             "resource": "America.png",
             "reshasha": "184e2bdcff983c99b4294835233b234f",
@@ -37,7 +37,7 @@
         {
             "name": "England",
             "author": "9on",
-            "package": "nationalFlagHat",
+            "package": "nationalFlagHats",
             "condition": "None",
             "resource": "England.png",
             "reshasha": "97639aaae6292eeb851d8fe82ce87db6",
@@ -72,7 +72,7 @@
         {
             "name": "Germany",
             "author": "9on",
-            "package": "nationalFlagHat",
+            "package": "nationalFlagHats",
             "condition": "None",
             "resource": "Germany.png",
             "reshasha": "92c7c732a4b51fa4ff2d9be7f6bb1ada",
@@ -82,7 +82,7 @@
         {
             "name": "Greece",
             "author": "9on",
-            "package": "nationalFlagHat",
+            "package": "nationalFlagHats",
             "condition": "None",
             "resource": "Greece.png",
             "reshasha": "99c89aa1221758bb8512b1a7ec4c50cf",
@@ -112,7 +112,7 @@
         {
             "name": "Italy",
             "author": "9on",
-            "package": "nationalFlagHat",
+            "package": "nationalFlagHats",
             "condition": "None",
             "resource": "Italy.png",
             "reshasha": "50697ada8f24895e4401a182d514c09d",
@@ -122,7 +122,7 @@
         {
             "name": "Jamaica",
             "author": "9on",
-            "package": "nationalFlagHat",
+            "package": "nationalFlagHats",
             "condition": "None",
             "resource": "Jamaica.png",
             "reshasha": "35b0f2993f94afa8c3bfa924c084ff13",
@@ -132,7 +132,7 @@
         {
             "name": "Japan",
             "author": "9on",
-            "package": "nationalFlagHat",
+            "package": "nationalFlagHats",
             "condition": "None",
             "resource": "Japan.png",
             "reshasha": "d69d32f6dca706921fdece9c6a3a6ed8",
@@ -185,7 +185,7 @@
         {
             "name": "Pakistan",
             "author": "9on",
-            "package": "nationalFlagHat",
+            "package": "nationalFlagHats",
             "condition": "None",
             "resource": "Pakistan.png",
             "reshasha": "1a4a49830a51fe086362810f9787523c",
@@ -195,7 +195,7 @@
         {
             "name": "Panama",
             "author": "9on",
-            "package": "nationalFlagHat",
+            "package": "nationalFlagHats",
             "condition": "None",
             "resource": "Panama.png",
             "reshasha": "ab6aff98922597d0afc9ea5cb74681be",
@@ -205,7 +205,7 @@
         {
             "name": "Russia",
             "author": "9on",
-            "package": "nationalFlagHat",
+            "package": "nationalFlagHats",
             "condition": "None",
             "resource": "Russia.png",
             "reshasha": "de28490c306bb91cbf1e72a07a6b024c",
@@ -224,7 +224,7 @@
         {
             "name": "Seychelles",
             "author": "9on",
-            "package": "nationalFlagHat",
+            "package": "nationalFlagHats",
             "condition": "None",
             "resource": "Seychelles.png",
             "reshasha": "6781b01714e8825c0696f347b30fac3f",
@@ -245,7 +245,7 @@
         {
             "name": "Spain",
             "author": "9on",
-            "package": "nationalFlagHat",
+            "package": "nationalFlagHats",
             "condition": "None",
             "resource": "Spain.png",
             "reshasha": "3d07505ac1e0905edb0c96057762c763",
@@ -255,11 +255,11 @@
         {
             "name": "Sri Lanka",
             "author": "9on",
-            "package": "nationalFlagHat",
+            "package": "nationalFlagHats",
             "condition": "None",
-            "resource": "SriLanka.png",
+            "resource": "Srilanka.png",
             "reshasha": "51aafc0712d6dfcb424700cf8cf83deb",
-            "climbresource": "SriLanka_climb.png",
+            "climbresource": "Srilanka_climb.png",
             "reshashc": "d6b7b8c8eaa80510fb2502f512bc6453"
         },
         {
@@ -287,7 +287,7 @@
         {
             "name": "Turkey",
             "author": "9on",
-            "package": "nationalFlagHat",
+            "package": "nationalFlagHats",
             "condition": "None",
             "resource": "Turkey.png",
             "reshasha": "d05190786944d36927340e392db0544b",
@@ -297,7 +297,7 @@
         {
             "name": "Ukraine",
             "author": "9on",
-            "package": "nationalFlagHat",
+            "package": "nationalFlagHats",
             "condition": "None",
             "resource": "Ukraine.png",
             "reshasha": "1c0ba4fff85d9ad561f991455019ac2e",
