@@ -50,10 +50,11 @@
             "author": "9on",
             "package": "CameraCrew",
             "condition": "None",
-            "resource": "Directorcrew_avaptive.png",
+            "resource": "Directorcrew_adaptive.png",
             "reshasha": "a28956c32a84da0a9fefaeed562afb2b",
             "climbresource": "Directorcrew_climb.png",
-            "reshashc": "8119bb9612b1068498c190ec746944cf"
+            "reshashc": "8119bb9612b1068498c190ec746944cf",
+            "adaptive": true
         },
         {
             "name": "England",
