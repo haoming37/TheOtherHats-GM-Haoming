@@ -24,6 +24,17 @@
             "adaptive": true
         },
         {
+            "name": "Camera",
+            "author": "9on",
+            "package": "CameraCrew",
+            "condition": "None",
+            "resource": "Cameracrew_adaptive.png",
+            "reshasha": "8edbf46e48353a0a2e61e7d284446e60",
+            "climbresource": "Cameracrew_climb.png",
+            "reshashc": "81f0c6193fab16a3934eab105158896b",
+            "adaptive": true
+        },
+        {
             "name": "Chu-ni",
             "author": "enoki",
             "package": "01haomingHat",
@@ -33,6 +44,16 @@
             "climbresource": "chu-ni_climb_adaptive.png",
             "reshashc": "df40f18c252c6b5b0a6ad46224152c1f",
             "adaptive": true
+        },
+        {
+            "name": "Director",
+            "author": "10on",
+            "package": "CameraCrew",
+            "condition": "None",
+            "resource": "Directorcrew_avaptive.png",
+            "reshasha": "a28956c32a84da0a9fefaeed562afb2b",
+            "climbresource": "Directorcrew_climb.png",
+            "reshashc": "8119bb9612b1068498c190ec746944cf"
         },
         {
             "name": "England",
@@ -76,8 +97,11 @@
             "condition": "None",
             "resource": "Germany.png",
             "reshasha": "92c7c732a4b51fa4ff2d9be7f6bb1ada",
+            "backresource": "Germany_behind.png",
+            "reshashb": "35865d40917853fb4a8ec5c316aea9a4",
             "climbresource": "Germany_climb.png",
-            "reshashc": "d9dff92870b7f06d8a11d733bc841528"
+            "reshashc": "d9dff92870b7f06d8a11d733bc841528",
+            "behind": true
         },
         {
             "name": "Greece",
@@ -86,8 +110,11 @@
             "condition": "None",
             "resource": "Greece.png",
             "reshasha": "99c89aa1221758bb8512b1a7ec4c50cf",
+            "backresource": "Greece_behind.png",
+            "reshashb": "cbb4a81aa3f9aaa7be89952ffb780c18",
             "climbresource": "Greece_climb.png",
-            "reshashc": "038a04c0e5a83a2098312f9f5590ab51"
+            "reshashc": "038a04c0e5a83a2098312f9f5590ab51",
+            "behind": true
         },
         {
             "name": "Hedgehog",
@@ -136,8 +163,13 @@
             "condition": "None",
             "resource": "Japan.png",
             "reshasha": "d69d32f6dca706921fdece9c6a3a6ed8",
+            "backresource": "Japan_behind.png",
+            "reshashb": "46e5d9787b9bf5bd39dc7ee8ae8d0153",
             "climbresource": "Japan_climb.png",
-            "reshashc": "784f40921516db2c8f0d46bda6cf309c"
+            "reshashc": "784f40921516db2c8f0d46bda6cf309c",
+            "backflipresource": "Japan_behind_flip.png",
+            "reshashbf": "6ff375f3e4825f7a4e07a565bd7ec6a7",
+            "behind": true
         },
         {
             "name": "Kendama",
@@ -152,6 +184,20 @@
             "reshashf": "cfbaa8282ce82ddbb5ebd0bd56b39aa7",
             "bounce": true,
             "adaptive": true
+        },
+        {
+            "name": "Light",
+            "author": "11on",
+            "package": "CameraCrew",
+            "condition": "None",
+            "resource": "Rightcrew_adaptive.png",
+            "reshasha": "404fd8d32baaa9ccbeb8d46c7d17e523",
+            "backresource": "Rightcrew_behind.png",
+            "reshashb": "306d7f03513277cbc6a2fb6105190e89",
+            "climbresource": "Rightcrew_climb.png",
+            "reshashc": "92ae95b2b485bee8e4cbcd59da3bb680",
+            "adaptive": true,
+            "behind": true
         },
         {
             "name": "Mic",
@@ -251,6 +297,17 @@
             "reshasha": "8133cdf2fb86c4ceb38d5e1bb13f8a5b",
             "climbresource": "SoapBubble_adaptive_climb.png",
             "reshashc": "1bcc9ee8b01ee2d6d1fc70405c9402dc",
+            "adaptive": true
+        },
+        {
+            "name": "Sound",
+            "author": "12on",
+            "package": "CameraCrew",
+            "condition": "None",
+            "resource": "Soundcrew_adaptive.png",
+            "reshasha": "be9690510d1a24f5b22b546ffe5a9b7a",
+            "climbresource": "Soundcrew_climb.png",
+            "reshashc": "6717daf10e3d699eef8e98eadbd44525",
             "adaptive": true
         },
         {
