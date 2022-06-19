@@ -37,7 +37,7 @@
         {
             "name": "CatHood",
             "author": "NonohaTect",
-            "package": "NanOHat",
+            "package": "NonOHat",
             "condition": "None",
             "resource": "catHood.png",
             "reshasha": "782b92e4d9ff7b53e625069e8d3f9bd6",
@@ -163,7 +163,7 @@
         {
             "name": "HsParka",
             "author": "NonohaTect",
-            "package": "NanOHat",
+            "package": "NonOHat",
             "condition": "None",
             "resource": "hsParka.png",
             "reshasha": "922c8cbfcf55253e2be68e3947a9afd6",
@@ -245,7 +245,7 @@
         {
             "name": "MiniFurisode",
             "author": "NonohaTect",
-            "package": "NanOHat",
+            "package": "NonOHat",
             "condition": "None",
             "resource": "miniFurisode.png",
             "reshasha": "3b98d73101b023e5a1b670266b5b94b0",
@@ -255,7 +255,7 @@
         {
             "name": "OkashiParka",
             "author": "NonohaTect",
-            "package": "NanOHat",
+            "package": "NonOHat",
             "condition": "None",
             "resource": "okashiParka.png",
             "reshasha": "8d3697dd31168a77e99b3e21040ad0a4",
@@ -316,7 +316,7 @@
         {
             "name": "PawCoat",
             "author": "NonohaTect",
-            "package": "NanOHat",
+            "package": "NonOHat",
             "condition": "None",
             "resource": "pawCoat.png",
             "reshasha": "2199c3b34a2457736483525cfe19b580",
@@ -399,12 +399,12 @@
         {
             "name": "SteamPunk",
             "author": "NonohaTect",
-            "package": "NanOHat",
+            "package": "NonOHat",
             "condition": "None",
             "resource": "steampunk.png",
             "reshasha": "eb7b73960694b669eb738060e2648925",
             "climbresource": "steampunk_climb.png",
-            "reshashc": "415649470936cc345454784813efe1a6"
+            "reshashc": "2e0550d21bfdcc1a3e9e8c7e95e920e9"
         },
         {
             "name": "Takenoko",
