@@ -35,6 +35,16 @@
             "adaptive": true
         },
         {
+            "name": "CatHood",
+            "author": "NonohaTect",
+            "package": "NanOHat",
+            "condition": "None",
+            "resource": "catHood.png",
+            "reshasha": "782b92e4d9ff7b53e625069e8d3f9bd6",
+            "climbresource": "catHood_climb.png",
+            "reshashc": "0d81c88dce5cc0121a88e07fdbc7200f"
+        },
+        {
             "name": "Chu-ni",
             "author": "enoki",
             "package": "01haomingHat",
@@ -54,6 +64,19 @@
             "reshasha": "a28956c32a84da0a9fefaeed562afb2b",
             "climbresource": "Directorcrew_climb.png",
             "reshashc": "8119bb9612b1068498c190ec746944cf",
+            "adaptive": true
+        },
+        {
+            "name": "Drawing",
+            "author": "R1",
+            "package": "01haomingHat",
+            "condition": "None",
+            "resource": "drawing_adaptive.png",
+            "reshasha": "35efa8df0cf868cb65653f956420ea02",
+            "climbresource": "drawing_climb_adaptive.png",
+            "reshashc": "9a8e3890e05150eee65ac943e40c2b03",
+            "flipresource": "drawing_flip_adaptive.png",
+            "reshashf": "2f8d97d6050267c382822bcbbbfc5dd2",
             "adaptive": true
         },
         {
@@ -138,6 +161,16 @@
             "reshashc": "e76e1037f45f33da8c0ce741d8d8c57d"
         },
         {
+            "name": "HsParka",
+            "author": "NonohaTect",
+            "package": "NanOHat",
+            "condition": "None",
+            "resource": "hsParka.png",
+            "reshasha": "922c8cbfcf55253e2be68e3947a9afd6",
+            "climbresource": "hsParka_climb.png",
+            "reshashc": "236e640390edba7099e6827660e8b750"
+        },
+        {
             "name": "Italy",
             "author": "9on",
             "package": "nationalFlagHats",
@@ -210,6 +243,26 @@
             "adaptive": true
         },
         {
+            "name": "MiniFurisode",
+            "author": "NonohaTect",
+            "package": "NanOHat",
+            "condition": "None",
+            "resource": "miniFurisode.png",
+            "reshasha": "3b98d73101b023e5a1b670266b5b94b0",
+            "climbresource": "miniFurisode_climb.png",
+            "reshashc": "1c316bf4331e4a27ffc81e537f882cb9"
+        },
+        {
+            "name": "OkashiParka",
+            "author": "NonohaTect",
+            "package": "NanOHat",
+            "condition": "None",
+            "resource": "okashiParka.png",
+            "reshasha": "8d3697dd31168a77e99b3e21040ad0a4",
+            "climbresource": "okashiParka_climb.png",
+            "reshashc": "b9f5aacfce6abfee2795c6358e6b672f"
+        },
+        {
             "name": "Omochi",
             "author": "enoki",
             "package": "01haomingHat",
@@ -259,6 +312,18 @@
             "climbresource": "Panda_adaptive_climb.png",
             "reshashc": "c739c7b0b8bc423582fcef869a60e975",
             "adaptive": true
+        },
+        {
+            "name": "PawCoat",
+            "author": "NonohaTect",
+            "package": "NanOHat",
+            "condition": "None",
+            "resource": "pawCoat.png",
+            "reshasha": "2199c3b34a2457736483525cfe19b580",
+            "backresource": "pawCoat_back.png",
+            "reshashb": "1bffeff670c088300a9304b9b3b694db",
+            "climbresource": "pawCoat_climb.png",
+            "reshashc": "473b036bcdf08d67acd70da04b9e9105"
         },
         {
             "name": "Russia",
@@ -334,7 +399,7 @@
         {
             "name": "SteamPunk",
             "author": "NonohaTect",
-            "package": "SteamPunk",
+            "package": "NanOHat",
             "condition": "None",
             "resource": "steampunk.png",
             "reshasha": "eb7b73960694b669eb738060e2648925",
