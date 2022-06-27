@@ -326,6 +326,17 @@
             "reshashc": "473b036bcdf08d67acd70da04b9e9105"
         },
         {
+            "name": "Puppeteer",
+            "author": "enoki",
+            "package": "01haomingHat",
+            "condition": "None",
+            "resource": "pape_adaptive.png",
+            "reshasha": "9c24330884fe6193f6342cb7d8e8a2d3",
+            "climbresource": "pape_climb_adaptive.png",
+            "reshashc": "7565424fc6532bbbd09aae374329f36a",
+            "adaptive": true
+        },
+        {
             "name": "Russia",
             "author": "9on",
             "package": "nationalFlagHats",
@@ -334,6 +345,19 @@
             "reshasha": "de28490c306bb91cbf1e72a07a6b024c",
             "climbresource": "Russia_climb.png",
             "reshashc": "e43691cb50cc88a08f89f2aebc9ba150"
+        },
+        {
+            "name": "Schrodinger\u2019s Cat",
+            "author": "enoki",
+            "package": "01haomingHat",
+            "condition": "None",
+            "resource": "syureneko_adaptive.png",
+            "reshasha": "7b732fd3c209383678c03f3af966da3f",
+            "climbresource": "syureneko_climb_adaptive.png",
+            "reshashc": "98fcb2b061ad0ff238ac054417607db6",
+            "flipresource": "syureneko_flip_adaptive.png",
+            "reshashf": "bdf8bfd2ea982d09c871cb2343e71ecd",
+            "adaptive": true
         },
         {
             "name": "Selfie",
