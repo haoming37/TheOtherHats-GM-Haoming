@@ -387,16 +387,6 @@
             "reshashc": "0ce9532570822b682177be2b6d36ea07"
         },
         {
-            "name": "Magic carpet",
-            "author": "9on",
-            "package": "01HaomingHat",
-            "condition": "None",
-            "resource": "UFO.png",
-            "reshasha": "21e764869a81bf9e1a2221a590d28067",
-            "climbresource": "UFO_climb.png",
-            "reshashc": "a5405ffac3c797cd57948e59f96df64f"
-        },
-        {
             "name": "Maryo1",
             "author": "catudon",
             "package": "mememuraHat",
@@ -748,6 +738,16 @@
             "reshasha": "d05190786944d36927340e392db0544b",
             "climbresource": "Turkey_climb.png",
             "reshashc": "dc9b0e6f7e84948f43af25880051c5be"
+        },
+        {
+            "name": "UFO",
+            "author": "9on",
+            "package": "01HaomingHat",
+            "condition": "None",
+            "resource": "UFO.png",
+            "reshasha": "21e764869a81bf9e1a2221a590d28067",
+            "climbresource": "UFO_climb.png",
+            "reshashc": "a5405ffac3c797cd57948e59f96df64f"
         },
         {
             "name": "Ukraine",
