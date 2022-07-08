@@ -379,7 +379,7 @@
         {
             "name": "Magic carpet",
             "author": "9on",
-            "package": "01HaomingHat",
+            "package": "01haomingHat",
             "condition": "None",
             "resource": "Masiccarpet.png",
             "reshasha": "375c68316911649498eba2e77c6ab592",
@@ -742,7 +742,7 @@
         {
             "name": "UFO",
             "author": "9on",
-            "package": "01HaomingHat",
+            "package": "01haomingHat",
             "condition": "None",
             "resource": "UFO.png",
             "reshasha": "21e764869a81bf9e1a2221a590d28067",
