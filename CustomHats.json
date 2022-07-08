@@ -56,6 +56,16 @@
             "adaptive": true
         },
         {
+            "name": "Cloud",
+            "author": "9on",
+            "package": "01haomingHat",
+            "condition": "None",
+            "resource": "Cloud.png",
+            "reshasha": "db340ce25ecbf595d006830757472217",
+            "climbresource": "Cloud_climb.png",
+            "reshashc": "732e6c9c4bc28abe01cd3cf0126ac0b9"
+        },
+        {
             "name": "Director",
             "author": "9on",
             "package": "CameraCrew",
@@ -115,6 +125,24 @@
             "adaptive": true
         },
         {
+            "name": "Ganmasu",
+            "author": "catudon",
+            "package": "mememuraHat",
+            "condition": "None",
+            "resource": "ganmasu.png",
+            "reshasha": "d1e0433a1baf95df9fb594a3bcd78cb5",
+            "climbresource": "ganmasu_c.png",
+            "reshashc": "9e22d8dad5d2f5af261dd46b127be771"
+        },
+        {
+            "name": "Ganmasu2",
+            "author": "catudon",
+            "package": "mememuraHat",
+            "condition": "None",
+            "resource": "ganmasu2.png",
+            "reshasha": "6225d53fbc18c478d97afe9512ff5126"
+        },
+        {
             "name": "Germany",
             "author": "9on",
             "package": "nationalFlagHats",
@@ -141,6 +169,48 @@
             "behind": true
         },
         {
+            "name": "Gusao",
+            "author": "catudon",
+            "package": "mememuraHat",
+            "condition": "None",
+            "resource": "gusao.png",
+            "reshasha": "60851d1fb07237bd3e83aeea5e39310c",
+            "climbresource": "gusao_c.png",
+            "reshashc": "fb96889c35416d4ab4df8a6775f5b4aa"
+        },
+        {
+            "name": "Gusao2",
+            "author": "catudon",
+            "package": "mememuraHat",
+            "condition": "None",
+            "resource": "gusao2.png",
+            "reshasha": "aa04fc81b064d947f71b7f54a317667a",
+            "backresource": "gusao2_b.png",
+            "reshashb": "f03ec7e296b59dc05c5e387459a122cd",
+            "climbresource": "gusao2_c.png",
+            "reshashc": "e4a3b79752f43407185986bd940f44ad"
+        },
+        {
+            "name": "Hatimanguu",
+            "author": "catudon",
+            "package": "mememuraHat",
+            "condition": "None",
+            "resource": "hatimanguu.png",
+            "reshasha": "19622464362d82e5a53f5445ec2dd144",
+            "climbresource": "hatimanguu_c.png",
+            "reshashc": "b60ac4a73afe79fe5e1c2032efdfd6e3"
+        },
+        {
+            "name": "Hatimanguu2",
+            "author": "catudon",
+            "package": "mememuraHat",
+            "condition": "None",
+            "resource": "hatimanguu2.png",
+            "reshasha": "493bde5e15df2c647c98a0400dbeb92e",
+            "climbresource": "hatimanguu2_c.png",
+            "reshashc": "7bdc74a3d3a08ee3ff6dc86a71a00b49"
+        },
+        {
             "name": "Hedgehog",
             "author": "\u9e7f\u5c4b\u3064\u304b\u3055",
             "package": "01haomingHat",
@@ -161,6 +231,26 @@
             "reshashc": "e76e1037f45f33da8c0ce741d8d8c57d"
         },
         {
+            "name": "Hinaruka1",
+            "author": "catudon",
+            "package": "mememuraHat",
+            "condition": "None",
+            "resource": "hinaruka1.png",
+            "reshasha": "90a9dce7553220f7355f6035ef410144",
+            "climbresource": "hinaruka1_c.png",
+            "reshashc": "29fa16b9719673260565d9a82b1a6ce4"
+        },
+        {
+            "name": "Hinaruka2",
+            "author": "catudon",
+            "package": "mememuraHat",
+            "condition": "None",
+            "resource": "hinaruka2.png",
+            "reshasha": "c87bdf1ede541230446c1391ce26d4d9",
+            "climbresource": "hinaruka2_c.png",
+            "reshashc": "fa4127f448f0a55c1d588b00e30f598f"
+        },
+        {
             "name": "HsParka",
             "author": "NonohaTect",
             "package": "NonOHat",
@@ -169,6 +259,37 @@
             "reshasha": "922c8cbfcf55253e2be68e3947a9afd6",
             "climbresource": "hsParka_climb.png",
             "reshashc": "236e640390edba7099e6827660e8b750"
+        },
+        {
+            "name": "Hungry",
+            "author": "9on",
+            "package": "01haomingHat",
+            "condition": "None",
+            "resource": "Hungry_adaptive.png",
+            "reshasha": "c676352b9768841f23b4e7013bdbe64c",
+            "climbresource": "Hungry_adaptive_climb.png",
+            "reshashc": "314e6b2bbc13df15b1cacb568e68a83c",
+            "adaptive": true
+        },
+        {
+            "name": "Iemon",
+            "author": "catudon",
+            "package": "mememuraHat",
+            "condition": "None",
+            "resource": "iemon.png",
+            "reshasha": "11fcbb29f6f5d15d21fbbd2b48950398",
+            "climbresource": "iemon_c.png",
+            "reshashc": "0916a340f16c2089442d31e695a85cda"
+        },
+        {
+            "name": "Iemon2",
+            "author": "catudon",
+            "package": "mememuraHat",
+            "condition": "None",
+            "resource": "iemon2.png",
+            "reshasha": "52cb3f43a0409e9c7a6eb7efdaf0cace",
+            "climbresource": "iemon2_c.png",
+            "reshashc": "8fab4be638f5a3b8064acae9d20ad05f"
         },
         {
             "name": "Italy",
@@ -220,6 +341,28 @@
             "adaptive": true
         },
         {
+            "name": "Latte",
+            "author": "catudon",
+            "package": "mememuraHat",
+            "condition": "None",
+            "resource": "latte.png",
+            "reshasha": "97f70a0ce76d850f40bc5f3cfde59004",
+            "backresource": "latte_b.png",
+            "reshashb": "64974a6ecfcc61de6ae66cd12128b6f5",
+            "climbresource": "latte_c.png",
+            "reshashc": "b8a0e780a156044f9e29cd7d35bce668"
+        },
+        {
+            "name": "Latte2",
+            "author": "catudon",
+            "package": "mememuraHat",
+            "condition": "None",
+            "resource": "latte2.png",
+            "reshasha": "ab1a05a6dc7cd4d649c9d5d443cfd3b2",
+            "climbresource": "latte2_c.png",
+            "reshashc": "3d7b98bb92dba4fb99807cc496b5fdec"
+        },
+        {
             "name": "Light",
             "author": "9on",
             "package": "CameraCrew",
@@ -232,6 +375,88 @@
             "reshashc": "92ae95b2b485bee8e4cbcd59da3bb680",
             "adaptive": true,
             "behind": true
+        },
+        {
+            "name": "Magic carpet",
+            "author": "9on",
+            "package": "01HaomingHat",
+            "condition": "None",
+            "resource": "Masiccarpet.png",
+            "reshasha": "375c68316911649498eba2e77c6ab592",
+            "climbresource": "Masiccarpet_climb.png",
+            "reshashc": "0ce9532570822b682177be2b6d36ea07"
+        },
+        {
+            "name": "Magic carpet",
+            "author": "9on",
+            "package": "01HaomingHat",
+            "condition": "None",
+            "resource": "UFO.png",
+            "reshasha": "21e764869a81bf9e1a2221a590d28067",
+            "climbresource": "UFO_climb.png",
+            "reshashc": "a5405ffac3c797cd57948e59f96df64f"
+        },
+        {
+            "name": "Maryo1",
+            "author": "catudon",
+            "package": "mememuraHat",
+            "condition": "None",
+            "resource": "maryo1.png",
+            "reshasha": "b8dc5f576494bd7f0d6836412e6bae59",
+            "climbresource": "maryo1_c.png",
+            "reshashc": "682ee1f492ca9245ab1e58199cb44c38"
+        },
+        {
+            "name": "Maryo2",
+            "author": "catudon",
+            "package": "mememuraHat",
+            "condition": "None",
+            "resource": "maryo2.png",
+            "reshasha": "53a0339281facd125b8676d8645cbb56",
+            "climbresource": "maryo2_c.png",
+            "reshashc": "89003fd484d7f7579f2617b9aa1b917b"
+        },
+        {
+            "name": "Mementomori",
+            "author": "catudon",
+            "package": "mememuraHat",
+            "condition": "None",
+            "resource": "memenntomori.png",
+            "reshasha": "34e045da05202f8eb66bd9751c4a47fb",
+            "backresource": "memenntomori_b.png",
+            "reshashb": "7a082dbdf38fd94ce108961c64eaebd2",
+            "climbresource": "memenntomori_c.png",
+            "reshashc": "1d369dc040c7594a5d7599f8a22e75af"
+        },
+        {
+            "name": "Mementomori2",
+            "author": "catudon",
+            "package": "mememuraHat",
+            "condition": "None",
+            "resource": "memenntomori2.png",
+            "reshasha": "621e42e9fdeac23ed1aa332abae43e3c",
+            "climbresource": "memenntomori2_c.png",
+            "reshashc": "f20af189b03c1c3fc921378ec7575ec1"
+        },
+        {
+            "name": "Meteo",
+            "author": "catudon",
+            "package": "mememuraHat",
+            "condition": "None",
+            "resource": "meteo.png",
+            "reshasha": "f8d4169cc747c8b3212b699964f8a3b6",
+            "climbresource": "meteo_c.png",
+            "reshashc": "5acd5feab827b2ad52799ffa9d207b82"
+        },
+        {
+            "name": "Meteo2",
+            "author": "catudon",
+            "package": "mememuraHat",
+            "condition": "None",
+            "resource": "meteo2.png",
+            "reshasha": "f1f45a09d76e0a2c664af2e2c7246768",
+            "climbresource": "meteo2_c.png",
+            "reshashc": "1d238a1c166eb862f040b50579ba23d9"
         },
         {
             "name": "Mic",
@@ -251,6 +476,30 @@
             "reshasha": "3b98d73101b023e5a1b670266b5b94b0",
             "climbresource": "miniFurisode_climb.png",
             "reshashc": "1c316bf4331e4a27ffc81e537f882cb9"
+        },
+        {
+            "name": "Mizore",
+            "author": "catudon",
+            "package": "mememuraHat",
+            "condition": "None",
+            "resource": "mizore.png",
+            "reshasha": "25b7d33c41d2575d5c300c31e28b72e4",
+            "backresource": "mizore_b.png",
+            "reshashb": "a0e3052519027af94fdeb9cbb20f540b",
+            "climbresource": "mizore_c.png",
+            "reshashc": "f8b84db57df764b72663facc197d7744"
+        },
+        {
+            "name": "Mizore2",
+            "author": "catudon",
+            "package": "mememuraHat",
+            "condition": "None",
+            "resource": "mizore2.png",
+            "reshasha": "4497665c31fe2a5a84e0b13163813c96",
+            "backresource": "mizore2_b.png",
+            "reshashb": "4ffafc8e192e61f3abe9877d81077251",
+            "climbresource": "mizore2_c.png",
+            "reshashc": "89f8897590076ee36b406f364e7c3eb7"
         },
         {
             "name": "OkashiParka",
@@ -337,6 +586,26 @@
             "adaptive": true
         },
         {
+            "name": "Reira-",
+            "author": "catudon",
+            "package": "mememuraHat",
+            "condition": "None",
+            "resource": "reira-.png",
+            "reshasha": "a7e4390fa15588bb8c48bfabcd06ea59",
+            "climbresource": "reira-_c.png",
+            "reshashc": "cdc9ffc8005a58f0f3203c918a656719"
+        },
+        {
+            "name": "Reira-2",
+            "author": "catudon",
+            "package": "mememuraHat",
+            "condition": "None",
+            "resource": "reira-2.png",
+            "reshasha": "c52eb9b299e4ab05356650ec7bf123a5",
+            "climbresource": "reira-2_c.png",
+            "reshashc": "339757505098a768625e1276f15c46ed"
+        },
+        {
             "name": "Russia",
             "author": "9on",
             "package": "nationalFlagHats",
@@ -411,6 +680,24 @@
             "reshashc": "6d4f60f5cfa29023b2102e977f2cf423"
         },
         {
+            "name": "Sreimari",
+            "author": "catudon",
+            "package": "mememuraHat",
+            "condition": "None",
+            "resource": "Sreimari.png",
+            "reshasha": "c09bdab9d0ef78ebbc881131f82d49d0",
+            "climbresource": "Sreimari_c.png",
+            "reshashc": "846bc1a523c581b61c98e808fa6298de"
+        },
+        {
+            "name": "Sreimari",
+            "author": "catudon",
+            "package": "mememuraHat",
+            "condition": "None",
+            "resource": "Sreimari2.png",
+            "reshasha": "5b9f3528ee4824e346edda9d4eed3a9d"
+        },
+        {
             "name": "Sri Lanka",
             "author": "9on",
             "package": "nationalFlagHats",
@@ -471,6 +758,46 @@
             "reshasha": "1c0ba4fff85d9ad561f991455019ac2e",
             "climbresource": "Ukraine_climb.png",
             "reshashc": "df7615c5f058d3d7cc0da939c5d74ac8"
+        },
+        {
+            "name": "Upaparon",
+            "author": "catudon",
+            "package": "mememuraHat",
+            "condition": "None",
+            "resource": "upaparon.png",
+            "reshasha": "edbdde20580a1bb6ddac34c457ece590",
+            "climbresource": "upaparon_c.png",
+            "reshashc": "44d1929ccec1b83d4741c6c3da55a52e"
+        },
+        {
+            "name": "Upaparon2",
+            "author": "catudon",
+            "package": "mememuraHat",
+            "condition": "None",
+            "resource": "upaparon2.png",
+            "reshasha": "7db4d1a1168b7013705357f15022addf",
+            "climbresource": "upaparon2_c.png",
+            "reshashc": "0ec74779e36c8a29e2f89f34d1f7aad6"
+        },
+        {
+            "name": "Zennkopasu",
+            "author": "catudon",
+            "package": "mememuraHat",
+            "condition": "None",
+            "resource": "zennkopasu.png",
+            "reshasha": "56ef1675599754ae264ef98400a76bc3",
+            "climbresource": "zennkopasu_c.png",
+            "reshashc": "2f68c656a396c07ff50e82b44332f9b9"
+        },
+        {
+            "name": "Zennkopasu2",
+            "author": "catudon",
+            "package": "mememuraHat",
+            "condition": "None",
+            "resource": "zennkopasu2.png",
+            "reshasha": "b7473ca9a84d176d69f240bb9580e553",
+            "climbresource": "zennkopasu2_c.png",
+            "reshashc": "572e130148d66381bd19c36b35e003fa"
         }
     ]
 }
