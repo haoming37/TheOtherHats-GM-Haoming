@@ -492,27 +492,6 @@
             "reshashc": "89f8897590076ee36b406f364e7c3eb7"
         },
         {
-            "name": "Mosamosa",
-            "author": "Memeta",
-            "package": "01haomingHat",
-            "condition": "None",
-            "resource": "mosamosa_adaptive.png",
-            "reshasha": "5bf30890978018668f2c4c7d7fe75e36",
-            "climbresource": "mosamosa_adaptive_climb.png",
-            "reshashc": "27623c7486752e01ea0bab8a7d975034",
-            "adaptive": true
-        },
-        {
-            "name": "Myakumyaku",
-            "author": "Memeta",
-            "package": "01haomingHat",
-            "condition": "None",
-            "resource": "myakumyaku.png",
-            "reshasha": "2dea6d70c8e82cb64d3309ccd231af53",
-            "climbresource": "myakumyaku_climb.png",
-            "reshashc": "760f2c95e38e62dd0d5654b72677ffe5"
-        },
-        {
             "name": "OkashiParka",
             "author": "NonohaTect",
             "package": "NonOHat",
@@ -727,17 +706,6 @@
             "reshasha": "eb7b73960694b669eb738060e2648925",
             "climbresource": "steampunk_climb.png",
             "reshashc": "2e0550d21bfdcc1a3e9e8c7e95e920e9"
-        },
-        {
-            "name": "Swan",
-            "author": "Enoki",
-            "package": "01haomingHat",
-            "condition": "None",
-            "resource": "swan_adaptive.png",
-            "reshasha": "8aa0dfd301485aef0bde69e602566a45",
-            "climbresource": "swan_climb_adaptive.png",
-            "reshashc": "9f7c24690df592076b2c4fe8bf00bd6e",
-            "adaptive": true
         },
         {
             "name": "Takenoko",
